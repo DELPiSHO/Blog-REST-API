@@ -10,15 +10,15 @@ Backend for Blog app using Django Rest Framework
 
 ## ToDo List
 
-## :heavy_check_mark: Backend using Django Rest Framework
-:heavy_check_mark: Configure Django and DjangoRestFramework
-:heavy_check_mark: Configure Postman
-:heavy_check_mark: Create posts and return List of Posts
-:heavy_check_mark: Pagination
-:heavy_check_mark: Return List of last Posts
-:heavy_check_mark: Feedback
-:heavy_check_mark: Search
-:heavy_check_mark: Register and Profile info
-:heavy_check_mark: Write comments and getting list of comments of some post
+## :heavy_check_mark: Backend using Django Rest Framework 
+:heavy_check_mark: Configure Django and DjangoRestFramework <br>
+:heavy_check_mark: Configure Postman <br>
+:heavy_check_mark: Create posts and return List of Posts <br>
+:heavy_check_mark: Pagination <br>
+:heavy_check_mark: Return List of last Posts <br>
+:heavy_check_mark: Feedback <br>
+:heavy_check_mark: Search <br>
+:heavy_check_mark: Register and Profile info <br>
+:heavy_check_mark: Write comments and getting list of comments of some post <br>
 
 ## :soon: Frontend using VueJs or NuxtJs
