@@ -22,3 +22,11 @@ Backend for Blog app using Django Rest Framework
 :heavy_check_mark: Write comments and getting list of comments of some post <br>
 
 ## :soon: Frontend using VueJs or NuxtJs
+
+:soon: <br>
+
+## Postman 
+### Requests
+![alt text][Postman]
+
+[Postman]: api/screenshots/postman.png "Postman"
