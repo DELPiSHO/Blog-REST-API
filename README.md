@@ -8,6 +8,11 @@ Backend for Blog app using Django Rest Framework
 <img alt="PyJWT" src="https://img.shields.io/badge/PyJWT-2.1.0-yellow">
 <img alt="Postman" src = "https://img.shields.io/badge/-Postman-blueviolet">
 
+## Build With
+
+* [Django](https://www.djangoproject.com/) - Python Web Framework.
+* [Django REST framework](https://www.django-rest-framework.org/) - Powerful and flexible toolkit for building Web APIs.
+
 ## ToDo List
 
 ## :heavy_check_mark: Backend using Django Rest Framework 
